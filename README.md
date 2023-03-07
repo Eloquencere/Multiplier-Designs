@@ -9,3 +9,6 @@
 - [x] Fast Matrix Multiplier
 - [ ] Floating Point Muliplier
 - [ ] Pipelined Muliplier
+
+# To Do
+- Make a SV testbench to test new adders
