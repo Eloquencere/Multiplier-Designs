@@ -11,4 +11,4 @@
 - [ ] Pipelined Muliplier
 
 # To Do
-- Make a SV testbench to test new adders
+- Make a SV testbench to test new Multipliers
