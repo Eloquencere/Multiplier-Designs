@@ -9,6 +9,8 @@
 - [x] Fast Matrix Multiplier
 - [ ] Floating Point Muliplier
 - [ ] Pipelined Muliplier
+- [ ] Restoring Division
+- [ ] Non Restoring Division
 
 # To Do
 - Make a SV testbench to test new Multipliers
