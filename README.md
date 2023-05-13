@@ -6,6 +6,7 @@
 - [ ] Braun Multiplier
 - [ ] Bough Wooley Multiplier
 - [ ] Wallace Multiplier
+- [ ] Karatsuba's Multiplier
 - [x] Fast Matrix Multiplier
 - [ ] Floating Point Muliplier
 - [ ] Pipelined Muliplier
